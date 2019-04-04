@@ -3,8 +3,8 @@
 Student of computer sciences
 
 My social networks:
-Facebook [Jekyll](https://www.facebook.com/martinfelipe.espinalcruces)
-E-Mail [Jekyll]<a href=”cofy43@ciencias.unam.mx”>cofy43</a>
+[Facebook](https://www.facebook.com/martinfelipe.espinalcruces)
+<a href=”cofy43@ciencias.unam.mx”>cofy43</a>
 
 ### Markdown
 
