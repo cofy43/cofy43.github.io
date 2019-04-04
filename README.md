@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/cofy43/cofy43.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Student of computer sciences
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My social networks:
+Facebook [Jekyll](https://www.facebook.com/martinfelipe.espinalcruces)
+E-Mail [Jekyll]<a href=”cofy43@ciencias.unam.mx”>cofy43</a>
 
 ### Markdown
 
