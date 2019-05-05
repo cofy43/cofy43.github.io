@@ -9,3 +9,5 @@ My social networks:
 [e-mail](https://mail.google.com/mail/u/0/#search/cofy43%40ciencias.unam.mx)
 
 [course of html](https://github.com/cofy43/Curso-de-html)
+
+[structure for html homework](https://github.com/cofy43/Esqueleto_html)
